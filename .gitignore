@@ -1,0 +1,9 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Yarn lockfile
+yarn.*
+
+# Screenshots
+screenshots-node-hw-01/
